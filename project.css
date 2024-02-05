@@ -9,13 +9,15 @@ h1 {
 }
 
 #head {
-    color: white;
-    padding: 30px;
-    background:
+      padding: 10px;
+    background: #76a729;
+    font-size: 25px;
+    display: inline-block;
     
 }
 
 .card {
     color: rgb(199, 158, 23);
     padding: 10px;
+    font-size: 16px;
 }
